@@ -1,0 +1,33 @@
+{
+ "format": "myradio/station-1",
+ "name": "ホームラボラジオ",
+ "description": "ホームラボと電子工作の、きのうの気になるニュースを毎朝お届け。",
+ "tagline": "ホームラボ・電子工作 朝のニュース",
+ "logo": "logo.svg",
+ "url": "https://mitsukinatume.github.io/homelab-radio/",
+ "repo": "https://github.com/MitsukiNatume/homelab-radio",
+ "language": "ja",
+ "languages": [
+  "ja"
+ ],
+ "schedule": {
+  "every": "day",
+  "time": "07:10",
+  "timezone": "Asia/Tokyo"
+ },
+ "episodes": "episodes.json",
+ "character": {
+  "pack": "character/character.json",
+  "thumbnail": "character/base.png",
+  "note": "AIで生成したキャラクターです"
+ },
+ "credits": [
+  "声：COEIROINK:リリンちゃん"
+ ],
+ "caster": "声：COEIROINK:リリンちゃん",
+ "audio": {
+  "dir": "audio",
+  "keep_days": 30
+ },
+ "weather": true
+}
