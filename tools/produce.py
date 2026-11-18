@@ -222,9 +222,9 @@ def main():
         run(["git", "-C", CLONE, "add", "episodes.json", f"episodes/{date}-ja.json"])
         run(["git", "-C", CLONE, "commit", "-q", "-m",
              f"{date}の放送を追加（自動生成）"])
-        run(["git", "-C", CLONE, "push", "origin", "main"])
         env = dict(os.environ)
         env["GIT_SSH_COMMAND"] = SSH_CMD
+        run(["git", "-C", CLONE, "push", "origin", "main"], env=env)
         env["SHARE_PYTHON"] = "python3"
         env["SHARE_FONT"] = FONT
         run(["bash", "tools/publish.sh"], cwd=CLONE, env=env)
