@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-19",
+  "ja": {
+   "title": "Prusa Connectが自宅サーバー対応、ESP32でトランシーバー自作",
+   "seconds": 210.46
+  }
+ },
+ {
   "date": "2026-11-18",
   "ja": {
    "title": "ファンレス全フラッシュNAS登場、ESP32にMuseのSDK",
