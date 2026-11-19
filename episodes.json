@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-20",
+  "ja": {
+   "title": "nginxに重大な脆弱性、Flipper Oneが支援開始",
+   "seconds": 212.57
+  }
+ },
+ {
   "date": "2026-11-19",
   "ja": {
    "title": "Prusa Connectが自宅サーバー対応、ESP32でトランシーバー自作",
