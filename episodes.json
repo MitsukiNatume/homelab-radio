@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-21",
+  "ja": {
+   "title": "AdGuard Homeが初の1.0、Frigateは緊急修正",
+   "seconds": 191.89
+  }
+ },
+ {
   "date": "2026-11-20",
   "ja": {
    "title": "nginxに重大な脆弱性、Flipper Oneが支援開始",
