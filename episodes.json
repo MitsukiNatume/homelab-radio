@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-22",
+  "ja": {
+   "title": "ブラックフライデー到来、DuplicatiがPostgreSQLに対応",
+   "seconds": 167.54
+  }
+ },
+ {
   "date": "2026-11-21",
   "ja": {
    "title": "AdGuard Homeが初の1.0、Frigateは緊急修正",
