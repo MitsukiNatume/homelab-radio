@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-23",
+  "ja": {
+   "title": "Echo Dotを脱クラウド化、StartOSに共有ボリューム",
+   "seconds": 173.52
+  }
+ },
+ {
   "date": "2026-11-22",
   "ja": {
    "title": "ブラックフライデー到来、DuplicatiがPostgreSQLに対応",
