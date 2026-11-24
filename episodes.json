@@ -1,5 +1,12 @@
 [
  {
+  "date": "2026-11-25",
+  "ja": {
+   "title": "Traefik 3.8登場、リモコン複製とポケットSDR",
+   "seconds": 210.11
+  }
+ },
+ {
   "date": "2026-11-24",
   "ja": {
    "title": "Synologyに緊急セキュリティ修正、DietPi 10.9登場",
