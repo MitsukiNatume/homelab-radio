@@ -1,0 +1,156 @@
+[
+ {
+  "date": "2026-11-28",
+  "ja": {
+   "title": "QNAPにZFSラックNAS登場、ニキシー管を自作",
+   "seconds": 210.19
+  }
+ },
+ {
+  "date": "2026-11-27",
+  "ja": {
+   "title": "HA 2026.12ベータ登場、CM5基板に8ポートPoE+",
+   "seconds": 227.63
+  }
+ },
+ {
+  "date": "2026-11-26",
+  "ja": {
+   "title": "Proxmox VE 9.3登場、Arm64にも正式対応",
+   "seconds": 220.31
+  }
+ },
+ {
+  "date": "2026-11-25",
+  "ja": {
+   "title": "Traefik 3.8登場、リモコン複製とポケットSDR",
+   "seconds": 210.11
+  }
+ },
+ {
+  "date": "2026-11-24",
+  "ja": {
+   "title": "Synologyに緊急セキュリティ修正、DietPi 10.9登場",
+   "seconds": 171.74
+  }
+ },
+ {
+  "date": "2026-11-23",
+  "ja": {
+   "title": "Echo Dotを脱クラウド化、StartOSに共有ボリューム",
+   "seconds": 173.52
+  }
+ },
+ {
+  "date": "2026-11-22",
+  "ja": {
+   "title": "ブラックフライデー到来、DuplicatiがPostgreSQLに対応",
+   "seconds": 167.54
+  }
+ },
+ {
+  "date": "2026-11-21",
+  "ja": {
+   "title": "AdGuard Homeが初の1.0、Frigateは緊急修正",
+   "seconds": 191.89
+  }
+ },
+ {
+  "date": "2026-11-20",
+  "ja": {
+   "title": "nginxに重大な脆弱性、Flipper Oneが支援開始",
+   "seconds": 212.57
+  }
+ },
+ {
+  "date": "2026-11-19",
+  "ja": {
+   "title": "Prusa Connectが自宅サーバー対応、ESP32でトランシーバー自作",
+   "seconds": 210.46
+  }
+ },
+ {
+  "date": "2026-11-18",
+  "ja": {
+   "title": "ファンレス全フラッシュNAS登場、ESP32にMuseのSDK",
+   "seconds": 165.35
+  }
+ },
+ {
+  "date": "2026-11-17",
+  "ja": {
+   "title": "HAの新機器AUX-2登場、15Wホームサーバー入門",
+   "seconds": 114.49
+  }
+ },
+ {
+  "date": "2026-11-16",
+  "ja": {
+   "title": "ピコWがHAのBluetoothプロキシに、ESP32-P4にデスクトップOS",
+   "seconds": 169.68
+  }
+ },
+ {
+  "date": "2026-11-15",
+  "ja": {
+   "title": "ラズパイルーターをx86 SBCへ、CM4で4K30取り込み",
+   "seconds": 170.87
+  }
+ },
+ {
+  "date": "2026-11-14",
+  "ja": {
+   "title": "Home Assistant向けミニPC4選、ラズパイ4は定価の2.5倍",
+   "seconds": 140.63
+  }
+ },
+ {
+  "date": "2026-11-13",
+  "ja": {
+   "title": "ファンレス5ベイ・オールフラッシュNAS登場、ProxmoxのSSD選びも",
+   "seconds": 191.33
+  }
+ },
+ {
+  "date": "2026-11-12",
+  "ja": {
+   "title": "VMwareの新ライセンス、エコードットを地元化する基板",
+   "seconds": 160.27
+  }
+ },
+ {
+  "date": "2026-11-11",
+  "ja": {
+   "title": "Proxmoxに共有ストレージ連携、QNAPはPlex経由の攻撃に注意",
+   "seconds": 190.06
+  }
+ },
+ {
+  "date": "2026-11-10",
+  "ja": {
+   "title": "B850増設カードでNAS強化、GL.iNetがNAS参入予告",
+   "seconds": 164.07
+  }
+ },
+ {
+  "date": "2026-11-09",
+  "ja": {
+   "title": "ファンレス5ベイNAS登場、24ポート10ギガ・スイッチも",
+   "seconds": 146.56
+  }
+ },
+ {
+  "date": "2026-11-08",
+  "ja": {
+   "title": "パンサーレイク搭載のNAS基板登場、UGREENは緊急修正",
+   "seconds": 187.36
+  }
+ },
+ {
+  "date": "2026-11-07",
+  "ja": {
+   "title": "ミニPC級の4ベイNAS登場、ラズパイ16GBは再値上げ",
+   "seconds": 193.42
+  }
+ }
+]
